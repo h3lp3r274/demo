@@ -482,7 +482,8 @@
     "Masculino": 431
   }
 ],
-"pie": {
+"pie":[
+{
 "Amazonas" : {
     "Casa": 18,
     "Fallecido": 117,
@@ -563,7 +564,7 @@
     "n/a": 31,
     "Recuperado": 8327
   },
-"Buenaventura D.E."
+"Buenaventura D.E.":
   {
     "Casa": 11,
     "Fallecido": 172,
@@ -689,7 +690,7 @@
     "n/a": 15,
     "Recuperado": 8227,
   },
-"Magdalena"
+"Magdalena":
   {
     "Casa": 99,
     "Fallecido": 412,
