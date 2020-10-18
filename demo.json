@@ -1,0 +1,22 @@
+[
+  {
+    "Departamento": "Amazonas",
+    "Total": 2757,
+    "PromedioporDepartamento": 0.3
+  },
+  {
+    "Departamento": "Antioquia",
+    "Total": 139833,
+    "PromedioporDepartamento": 14.8
+  },
+  {
+    "Departamento": "Arauca",
+    "Total": 2496,
+    "PromedioporDepartamento": 0.3
+  },
+  {
+    "Departamento": "San Andres",
+    "Total": 1715,
+    "PromedioporDepartamento": 0.2
+  }
+]
